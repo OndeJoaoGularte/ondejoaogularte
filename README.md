@@ -6,7 +6,7 @@ Algumas tecnologias que domino ou tenho algum conhecimento:
 
 ## Tecnologias voltadas ao Front-End
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Onde-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Onde-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="Onde-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
@@ -21,7 +21,7 @@ Algumas tecnologias que domino ou tenho algum conhecimento:
 
 ## Tecnologias voltadas ao Back-End
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Onde-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Onde-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="Onde-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
@@ -32,7 +32,7 @@ Algumas tecnologias que domino ou tenho algum conhecimento:
 
 ## Modelagem e Gerenciamento de Banco de Dados
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Onde-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="Onde-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="Onde-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
@@ -40,7 +40,7 @@ Algumas tecnologias que domino ou tenho algum conhecimento:
 
 ## Controle de Versão, Ferramenta de Build, ORM e organização para metodologias ágeis
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Onde-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="Onde-ViteJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
   <img align="center" alt="Onde-Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
@@ -49,7 +49,7 @@ Algumas tecnologias que domino ou tenho algum conhecimento:
 
 ## Teste de APIs
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Onde-Insomnia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">
   <img align="center" alt="Onde-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
 </div><br>

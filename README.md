@@ -1,6 +1,18 @@
-# Eu sou o João Gularte, seja bem vindo ao meu perfil! 😁
+<div align="center">
+  <img src="https://64.media.tumblr.com/a3db7a72abff23d4e23146d8d7c8f33d/tumblr_pabqogyXEH1txj8weo4_540.gifv" height="165em"/>
+</div>
 
-Estudo algumas tecnologias e tento me organizar em meio a tantos projetos, com o objetivo de me tornar um desenvolvedor Full Stack!
+<h1 align="center"> Eu sou o João Gularte, seja bem vindo ao meu perfil! 😁 </h1>
+
+<div align="center">
+  <a href="https://github.com/ondejoaogularte">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ondejoaogularte&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondejoaogularte&layout=compact&langs_count=7&theme=aura"/></a>
+</div>
+
+<br>
+
+Estudante de programação buscando conhecimento, experiência e aprendizado, com o objetivo de me tornar um desenvolvedor Full Stack!
 
 Algumas tecnologias que domino ou tenho algum conhecimento:
 
@@ -47,7 +59,7 @@ Algumas tecnologias que domino ou tenho algum conhecimento:
   <img align="center" alt="Onde-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
 </div><br>
 
-## Teste de APIs
+## Ferramentas de Teste de APIs
 
 <div style="display: inline_block">
   <img align="center" alt="Onde-Insomnia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">
@@ -58,9 +70,8 @@ Algumas tecnologias que domino ou tenho algum conhecimento:
 
 Atualmente aprendendo principalmente Angular, C# e React, além de programar dois bots para um servidor que tenho com amigos, o steVebot, feito com a biblioteca discord.py e o marCobot, feito com discord.js!
 <img align="center" alt="Onde-DiscordJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg">
-##
 
-<div> 
+<div align="center"> 
   <a href="https://www.instagram.com/joaogularte_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/joaogularte/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>

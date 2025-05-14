@@ -34,8 +34,8 @@ Algumas tecnologias que domino ou tenho algum conhecimento:
 ## Tecnologias voltadas ao Back-End
 
 <div style="display: inline_block">
-  <img align="center" alt="Onde-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Onde-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="Onde-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Onde-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Onde-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
   <img align="center" alt="Onde-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
@@ -50,18 +50,13 @@ Algumas tecnologias que domino ou tenho algum conhecimento:
   <img align="center" alt="Onde-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </div><br>
 
-## Controle de Versão, Ferramenta de Build, ORM e organização para metodologias ágeis
+## Outros
 
 <div style="display: inline_block">
   <img align="center" alt="Onde-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="Onde-ViteJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
   <img align="center" alt="Onde-Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
   <img align="center" alt="Onde-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
-</div><br>
-
-## Ferramentas de Teste de APIs
-
-<div style="display: inline_block">
   <img align="center" alt="Onde-Insomnia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">
   <img align="center" alt="Onde-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
 </div><br>
@@ -76,8 +71,10 @@ Atualmente aprendendo principalmente Angular, C# e React, além de programar doi
   <a href="https://www.linkedin.com/in/joaogularte/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ondejoaogularte/ondejoaogularte/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ondejoaogularte/ondejoaogularte/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ondejoaogularte/ondejoaogularte/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ondejoaogularte/ondejoaogularte/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ondejoaogularte/ondejoaogularte/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ondejoaogularte/ondejoaogularte/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>

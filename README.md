@@ -68,7 +68,7 @@ Algumas tecnologias que domino ou tenho algum conhecimento:
   
 ##
 
-Atualmente estudando principalmente Angular, C# e React, além de programar dois bots para um servidor que tenho com amigos, o stevebot, feito com a biblioteca discord.py e o marcobot, feito com discord.js!
+Atualmente estudando principalmente Angular, Vue e React, além de programar dois bots para um servidor que tenho com amigos, o stevebot, feito com a biblioteca discord.py e o marcobot, feito com discord.js!
 <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=discordjs">
 
 <div align="center"> 

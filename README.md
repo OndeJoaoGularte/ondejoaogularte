@@ -13,63 +13,11 @@
 <br>
 
 Estudante de programação buscando conhecimento, experiência e aprendizado, com o objetivo de me tornar um desenvolvedor Full Stack!
-
-Algumas tecnologias que domino ou tenho algum conhecimento:
-
-## Tecnologias voltadas ao Front-End
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,scss,javascript,typescript,react,angular,vue,vite,figma&theme=light" />
-  </a>
-</p>
-
-<br>
-
-## Tecnologias voltadas ao Back-End
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,python,nodejs,express,cs,dotnet&theme=light" />
-  </a>
-</p>
-
-<br>
-
-## Modelagem e Gerenciamento de Banco de Dados
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,prisma,aws&theme=light" />
-  </a>
-</p>
-
-<br>
-
-## Outros
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,cypress,postman,obsidian,notion&theme=light" />
-  </a>
-</p>
-
-<br>
-
-## Planejo estudar (ou estudando)
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,laravel,nestjs,nextjs,nuxtjs,vuetify,materialui,vercel&theme=light" />
-  </a>
-</p>
-
-<br>
-  
 ##
 
-Atualmente estudando principalmente Angular, Vue e React, além de programar dois bots para um servidor que tenho com amigos, o stevebot, feito com a biblioteca discord.py e o marcobot, feito com discord.js!
-<img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=discordjs">
+<h1 align="center"> Em Manutenção!! </h1>
+
+Atualmente estudando principalmente Java!
 
 <div align="center"> 
   <p>minhas redes: (pode clicar)</p>
